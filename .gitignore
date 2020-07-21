@@ -32,3 +32,4 @@ doc/html
 ipch
 Debug
 Release
+/serial-ros2-master/cmake-build-debug/CMakeFiles/clion-log.txt
